@@ -13,19 +13,9 @@ I learned to code by building my own products, and I enjoy making things that ac
 </p>
 
 <p align="center">
-  <img src="https://github.com/Razigue.png" width="92" alt="Razigue Benhmida" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Razigue?style=for-the-badge&logo=github&label=Followers&color=58a6ff" alt="Followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRazigue&query=%24.public_repos&style=for-the-badge&logo=github&label=Repos&color=db61a2" alt="Public repos" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Razigue&show_icons=true&count_private=true&hide_border=true&bg_color=0a0a0c&title_color=8b5cf6&icon_color=8b5cf6&text_color=ededef" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Razigue&show_icons=true&count_private=true&hide_border=true&bg_color=f0f0f3&title_color=8b5cf6&icon_color=8b5cf6&text_color=111113" alt="GitHub Stats" width="450" />
-  </picture>
+  <a href="https://github.com/Razigue">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=Razigue&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub Profile Widget" />
+  </a>
 </p>
 
 <h3 align="center">🛠️ Tech Stack 🛠️</h3>
