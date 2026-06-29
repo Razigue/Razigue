@@ -1,11 +1,15 @@
 <h1 align="center">Razigue Benhmida</h1>
 
-<p align="center"><b>Student Developer | Web@cademie by EPITECH</b></p>
+<p align="center"><b>Full-stack web developer · Student at Web@cademie by EPITECH</b></p>
 
-<p align="center"><i>I turn ideas into concrete projects, from the first commit to deployment.<br>
-I learned to code by building my own products, and I enjoy making things that actually work, for myself and for others.</i></p>
+<p align="center">
+I got into programming while running my own online store, and I've been building things end to end ever since,<br>
+from back-end APIs to the front end people actually use.
+</p>
 
-<p align="center">🎓 Currently looking for a <b>14-month work-study contract (alternance)</b> starting <b>September 2026</b>, to complete my studies at Web@cademie by EPITECH.</p>
+<p align="center">
+Currently looking for a 14-month work-study contract (alternance) starting September 2026, as part of my studies.
+</p>
 
 <p align="center">
   <a href="https://razigue.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -18,13 +22,13 @@ I learned to code by building my own products, and I enjoy making things that ac
   </a>
 </p>
 
-<h3 align="center">🛠️ Tech Stack 🛠️</h3>
+<h2 align="center">Tech stack</h2>
 
 <table align="center">
   <tr>
-    <th>🖥️ Languages</th>
-    <th>📦 Frameworks &amp; Engines</th>
-    <th>⚙️ Tools</th>
+    <th>Languages</th>
+    <th>Frameworks &amp; Engines</th>
+    <th>Tools</th>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=js,java,php,html,css&perline=3" alt="Languages" /></td>
@@ -33,7 +37,7 @@ I learned to code by building my own products, and I enjoy making things that ac
   </tr>
 </table>
 
-<h3 align="center">✨ Public Projects (GitHub) ✨</h3>
+<h2 align="center">Public projects</h2>
 
 <p align="center">
   <a href="https://github.com/Razigue/JeuVideOPS">JeuVideOPS</a> •
@@ -43,7 +47,7 @@ I learned to code by building my own products, and I enjoy making things that ac
   <a href="https://github.com/Razigue/portfolio">Portfolio</a>
 </p>
 
-<h3 align="center">🔒 Other Projects (Private) 🔒</h3>
+<h2 align="center">Other projects (private)</h2>
 
 <table align="center">
   <tr>
@@ -55,54 +59,54 @@ I learned to code by building my own products, and I enjoy making things that ac
   <tr>
     <td><b>Corelab</b></td>
     <td>2026</td>
-    <td>E-learning platform backend: secure REST API (JWT auth, role-based access) with full CRUD.</td>
+    <td>Back end of an e-learning platform: REST API with JWT authentication, role-based access and full CRUD.</td>
     <td><code>Node.js</code> <code>Express</code> <code>MongoDB</code></td>
   </tr>
   <tr>
     <td><b>Connect'In</b></td>
     <td>2025</td>
-    <td>LinkedIn-style social network for sharing posts: layered architecture, JWT auth, file uploads.</td>
+    <td>A small LinkedIn-style social network for sharing posts. Layered architecture, JWT auth and file uploads.</td>
     <td><code>Spring Boot</code> <code>React</code> <code>MySQL</code></td>
   </tr>
   <tr>
     <td><b>Connect'In v2</b></td>
     <td>2026</td>
-    <td>Rework of the social network: new features, refactored architecture and redesigned UI.</td>
+    <td>Rebuild of Connect'In with new features, a cleaner architecture and a reworked interface.</td>
     <td><code>Spring Boot</code> <code>React</code> <code>MySQL</code></td>
   </tr>
   <tr>
     <td><b>Epitone</b></td>
     <td>2026</td>
-    <td>Personal project: a guitar VST (amp and effects) playable right in the browser, built with the Web Audio API.</td>
+    <td>A personal project: a guitar amp and effects rig (VST style) that runs in the browser with the Web Audio API.</td>
     <td><code>React</code> <code>Web Audio API</code></td>
   </tr>
   <tr>
     <td><b>JeuVideOPS</b></td>
     <td>2025</td>
-    <td>CI/CD pipeline for retro JS games: ESLint, unit and E2E tests, npm audit, GitHub Pages deploy.</td>
+    <td>CI/CD pipeline for a few retro JS games: ESLint, unit and end-to-end tests, npm audit, and a GitHub Pages deploy.</td>
     <td><code>GitHub Actions</code> <code>Jest</code> <code>Playwright</code></td>
   </tr>
   <tr>
     <td><b>LearnSphere</b></td>
     <td>2025</td>
-    <td>E-learning platform: custom post types, block theme, quiz shortcode and plugin configuration.</td>
+    <td>E-learning site built on WordPress: custom post types, a block theme, a quiz shortcode and plugin setup.</td>
     <td><code>WordPress</code> <code>ACF</code> <code>PHP</code></td>
   </tr>
   <tr>
     <td><b>LLM Security</b></td>
     <td>2026</td>
-    <td>Hardened system protecting secret values: compartmentalization, anti-encoding and output allow-listing.</td>
+    <td>Hardening a language model to protect secret values: compartmentalization, anti-encoding and output allow-listing.</td>
     <td><code>Ollama</code></td>
   </tr>
   <tr>
     <td><b>AI Automation</b></td>
     <td>2026</td>
-    <td>Automated workflows connected to a locally-run language model on Linux.</td>
+    <td>Automation workflows wired to a language model running locally on Linux.</td>
     <td><code>n8n</code> <code>Ollama</code></td>
   </tr>
 </table>
 
-<p align="center">👉 Discover these projects in detail on my <a href="https://razigue.netlify.app/">portfolio</a></p>
+<p align="center">See these projects in more detail on my <a href="https://razigue.netlify.app/">portfolio</a>.</p>
 
 <p align="center">
   <picture>
