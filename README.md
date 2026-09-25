@@ -108,13 +108,13 @@ I found code while building my own e-commerce site as a self-employed seller, an
     <td><code>WordPress</code> <code>ACF</code> <code>PHP</code></td>
   </tr>
   <tr>
-    <td><b>LLM Security</b></td>
+    <td><a href="https://github.com/Razigue/Codename"><b>LLM Security</b></a></td>
     <td>2026</td>
     <td>Hardening a language model against secret leaks: compartmentalization, anti-encoding, output allow-listing.</td>
     <td><code>Ollama</code></td>
   </tr>
   <tr>
-    <td><b>AI Automation</b></td>
+    <td><a href="https://github.com/Razigue/Persona"><b>AI Automation</b></a></td>
     <td>2026</td>
     <td>Automation workflows wired to a local language model on Linux.</td>
     <td><code>n8n</code> <code>Ollama</code></td>
