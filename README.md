@@ -1,11 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&color=0:08080A,42:18181B,72:3F3F46,100:E4E4E7&text=Razigue%20Benhmida&fontColor=EDEDEF&fontSize=54&fontAlign=50&fontAlignY=38&desc=Full-stack%20web%20developer%20%7C%20Web%40cademie%20by%20EPITECH&descAlign=50&descAlignY=60&descSize=17&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&color=0:FFFFFF,42:F4F4F5,72:D4D4D8,100:52525B&text=Razigue%20Benhmida&fontColor=111113&fontSize=54&fontAlign=50&fontAlignY=38&desc=Full-stack%20web%20developer%20%7C%20Web%40cademie%20by%20EPITECH&descAlign=50&descAlignY=60&descSize=17&animation=fadeIn" alt="Razigue Benhmida, full-stack web developer" width="100%" />
-</picture>
-
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=15&duration=3000&pause=1400&color=A1A1AA&center=true&vCenter=true&width=620&lines=Looking+for+a+12-month+work-study+from+September+2026;6+weeks+in+company%2C+2+weeks+in+training;PHP+%2F+Laravel+and+React" alt="Looking for a 12-month work-study from September 2026" />
+![Razigue Benhmida banner](https://capsule-render.vercel.app/api?type=waving&height=260&section=header&color=0:08080A,42:111113,72:5C4A1E,100:C9A24B&text=Razigue%20Benhmida&fontColor=EDEDEF&fontSize=54&fontAlign=50&fontAlignY=38&desc=Full-stack%20web%20developer%20%7C%20Web%40cademie%20by%20EPITECH&descAlign=50&descAlignY=60&descSize=17&animation=fadeIn)
 
 </div>
 
