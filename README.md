@@ -52,10 +52,10 @@ I found code while building my own e-commerce site as a self-employed seller, an
     <td><a href="https://overkill.kisukesaama.com/">Demo</a></td>
   </tr>
   <tr>
-    <td><b>Corelab</b><br><sub>Node.js · Express · MongoDB</sub></td>
-    <td>School, team of 3, 2026</td>
-    <td>Dev training platform with courses and MCQ exams. My part: data models and routes — JWT auth, role-based access, CRUD for courses, lessons, quizzes and results.</td>
-    <td><a href="https://github.com/Razigue/Corelab">Repo</a></td>
+    <td><b>Binder</b><br><sub>Python · FastAPI · React · Ollama</sub></td>
+    <td>Personal, 2026</td>
+    <td>A local AI agent for your paperwork: drop in bills, payslips and notices, it files them, reads amounts and deadlines, flags anomalies and drafts complete letters. Everything is encrypted and stays on your computer.</td>
+    <td><a href="https://github.com/Razigue/Binder/releases/latest">Download</a> · <a href="https://github.com/Razigue/Binder">Repo</a></td>
   </tr>
 </table>
 
