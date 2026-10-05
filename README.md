@@ -39,6 +39,12 @@ I found code while building my own e-commerce site as a self-employed seller, an
     <th>Description</th>
     <th>Links</th>
   </tr>
+    <tr>
+    <td><b>Binder</b><br><sub>Python · FastAPI · React · Ollama</sub></td>
+    <td>Personal, 2026</td>
+    <td>A local AI agent for your paperwork: drop in bills, payslips and notices, it files them, reads amounts and deadlines, flags anomalies and drafts complete letters. Everything is encrypted and stays on your computer.</td>
+    <td><a href="https://github.com/Razigue/Binder/releases/latest">Download</a> · <a href="https://github.com/Razigue/Binder">Repo</a></td>
+  </tr>
   <tr>
     <td><b>Tonecraft</b><br><sub>Astro · Svelte · TypeScript · WebAssembly</sub></td>
     <td>Personal, 2026</td>
@@ -51,12 +57,7 @@ I found code while building my own e-commerce site as a self-employed seller, an
     <td>Job, internship and work-study aggregator. My part: offers and favorites — controllers, validation DTOs, filtered search and pagination.</td>
     <td><a href="https://overkill.kisukesaama.com/">Demo</a></td>
   </tr>
-  <tr>
-    <td><b>Binder</b><br><sub>Python · FastAPI · React · Ollama</sub></td>
-    <td>Personal, 2026</td>
-    <td>A local AI agent for your paperwork: drop in bills, payslips and notices, it files them, reads amounts and deadlines, flags anomalies and drafts complete letters. Everything is encrypted and stays on your computer.</td>
-    <td><a href="https://github.com/Razigue/Binder/releases/latest">Download</a> · <a href="https://github.com/Razigue/Binder">Repo</a></td>
-  </tr>
+
 </table>
 
 <p align="center">Case studies for each project on <a href="https://razigue.com/projets">razigue.com/projets</a>.</p>
