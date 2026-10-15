@@ -1,6 +1,6 @@
 <div align="center">
 
-Show Image
+https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:08080A,42:111113,72:5C4A1E,100:C9A24B&text=Razigue%20Benhmida&fontColor=EDEDEF&fontSize=50&fontAlign=50&fontAlignY=38&desc=Full-stack%20web%20developer%20%7C%20Web%40cademie%20by%20EPITECH&descAlign=50&descAlignY=60&descSize=16&animation=fadeIn
 
 At Web@cadémie by Epitech, I design solutions and shape them into web applications.<br> I found code while building my own e-commerce site as a self-employed seller,<br> and I've been building end to end since.
 
