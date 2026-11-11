@@ -9,7 +9,6 @@
   <a href="https://razigue.com">Portfolio</a> &nbsp;·&nbsp;
   <a href="https://razigue.com/cv-razigue-benhmida.pdf">CV</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/benhmida-razigue">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:razigue.benhmida@epitech.eu">Email</a>
 </p>
 
 <br>
