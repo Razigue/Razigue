@@ -4,9 +4,6 @@
   Full-stack web developer · Epitech Paris<br>
   <sub>Looking for a 12-month work-study (alternance)
 </p>
-
-<p align="center">
-  <a href="https://razigue.com">Portfolio</a>
 </p>
 
 <br>
