@@ -2,7 +2,7 @@
 
 <p align="center">
   Full-stack web developer · Epitech Paris<br>
-  <sub>Looking for a 12-month work-study (alternance) · PHP / Laravel and React · Île-de-France</sub>
+  <sub>Looking for a 12-month work-study (alternance) · Île-de-France</sub>
 </p>
 
 <p align="center">
