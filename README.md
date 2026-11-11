@@ -21,21 +21,19 @@
 
 A local AI agent for paperwork. Drop in bills, payslips and notices: it files them, reads amounts and deadlines, flags anomalies and drafts letters. Everything is encrypted and stays on your computer.
 
-[Download](https://github.com/Razigue/Binder/releases/latest) · [Repo](https://github.com/Razigue/Binder)
+[Download](https://github.com/Razigue/Binder/releases/latest)
 
 ### [Tonecraft](https://github.com/Razigue/Tonecraft)
 <sub>Astro · Svelte · TypeScript · WebAssembly</sub>
 
 Plug in a guitar and open the site: pick a tone, follow the tab while the band plays along, record your take. No install, no account.
 
-[Demo](https://razigue.github.io/Tonecraft/) · [Repo](https://github.com/Razigue/Tonecraft)
+[Demo](https://razigue.github.io/Tonecraft/)
 
 ### [Onyva](https://github.com/Razigue/Onyva)
 <sub>Expo · React Native · Supabase · PostGIS · TypeScript</sub>
 
 iOS and Android app that finds a fair meeting spot for a group of friends in Île-de-France, based on real public-transport journeys there and back. No account needed: share a link, compare venues, confirm, and follow everyone's arrival.
-
-[Repo](https://github.com/Razigue/Onyva)
 
 <br>
 
