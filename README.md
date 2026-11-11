@@ -55,7 +55,7 @@
 
 <br>
 
-<h2 align="center">Also</h2>
+<h2 align="center">School project</h2>
 
 <table align="center">
   <tr>
