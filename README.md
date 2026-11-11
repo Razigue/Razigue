@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://razigue.com">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://razigue.com">Portfolio</a>
 </p>
 
 <br>
