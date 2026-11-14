@@ -49,7 +49,7 @@
     <td align="center"><a href="https://github.com/Razigue/glinche-vehicle-catalog">Repo</a></td>
   </tr>
   <tr>
-    <td><b>Beloy Enrollment Flow</b></td>
+    <td><b>Beloy</b></td>
     <td>Framework-free insurance enrollment flow for an EV order, with design tokens and FR/EN copy files. Beloy take-home exercise</td>
     <td><sub>HTML · CSS · JavaScript</sub></td>
     <td align="center"><a href="https://github.com/Razigue/beloy-enrollment-flow">Repo</a></td>
