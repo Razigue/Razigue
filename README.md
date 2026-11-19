@@ -1,13 +1,3 @@
-<h1 align="center">Razigue Benhmida</h1>
-
-<p align="center">
-  Full-stack web developer · Epitech Paris<br>
-  <sub>Looking for a 12-month work-study (alternance)
-</p>
-</p>
-
-<br>
-
 <h2 align="center">Projects</h2>
 
 <table align="center">
